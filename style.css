@@ -7,9 +7,10 @@ body {
 
 .navigation ul {
   font-size: 40px;
-  margin: 40;
-  padding: 0;
-  text-align: inline-block;
+  margin: 30px;
+  padding: 40px;
+  text-align: center;
+  padding: 0px;
 }
 
 .logo {
@@ -23,7 +24,7 @@ body {
   font-weight: bold;
   border: 3px solid #1d3d9a;
   padding: 20px;
-  margin: 100px 400px;
+  margin: 100px;
 }
 
 .button:hover {
