@@ -1,0 +1,79 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  background: #758ba9;
+  color: black;
+  text-align: center;
+}
+
+.navigation ul {
+  font-size: 40px;
+  margin: 40;
+  padding: 0;
+  text-align: inline-block;
+}
+
+.logo {
+  color: white;
+ }
+
+ .button {
+  border-radius: 8px;
+  color: #1d3d9a;
+  display: center;
+  font-weight: bold;
+  border: 3px solid #1d3d9a;
+  padding: 20px;
+  margin: 100px 400px;
+}
+
+.button:hover {
+  border-radius: 8px;
+  background-color: white;
+  border: 6px solid #7e98e7;
+  color: grey;
+  display: center;
+}
+
+h1 {
+  color: white;
+  font-size: 30px;
+  padding-top: 40px;
+  width: 100%;
+  font-family: Raleway;
+  margin: 0px;
+  text-align: center;
+}
+
+ h2 {
+    color: black;
+    text-align: center;
+  }
+
+p {
+  color: lightblue;
+  line-height: 1.3em;
+  text-align: left;
+  width: 700px;
+  font-family: Helvetica;
+  font-size: 18px;
+  margin: 20px;
+  display: inline-block;
+}
+
+#banner {
+  margin: auto;
+  height: 100px;
+  width: 525px;
+}
+ 
+.share a {
+  background: grey;
+  border: 3px solid #1d3d9a;
+  border-radius: 8px;
+  color: white;
+  display: inline-block;
+  padding: 24px;
+  text-decoration: none;
+  margin: 20px;
+  align: center;
+}
