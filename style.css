@@ -39,7 +39,7 @@ body {
 h1 {
   color: black;
   font-size: 60px;
-  padding-top: 40px;
+  padding-top: 30px;
   width: 100%;
   font-family: Raleway;
   margin: 0px;
@@ -48,9 +48,15 @@ h1 {
 
  h2 {
     color: black;
+   font-size: 40px;
     text-align: center;
   }
 
+ h3 {
+    color: black;
+    font-size: 20px;
+    text-align: center;
+  }
 p {
   color: grey;
   line-height: 1.3em;
