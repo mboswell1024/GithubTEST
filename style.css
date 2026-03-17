@@ -5,6 +5,16 @@ body {
   text-align: center;
 }
 
+.container {
+  display: flex;
+}
+
+.box {
+  padding: 20px;
+  background: lightblue;
+  margin: 10px;
+}
+
 .navigation ul {
   font-size: 40px;
   margin: 30px;
