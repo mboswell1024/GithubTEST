@@ -6,6 +6,7 @@ body {
 }
 
 .container {
+  align: center;
   display: flex;
 }
 
